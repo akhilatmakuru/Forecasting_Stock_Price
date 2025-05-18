@@ -81,10 +81,7 @@ However, each model brings value depending on the context:
 
 ```
 .
-├── ARIMA_Model.ipynb
-├── LSTM_Model.ipynb
-├── Transformer_Model.ipynb
-├── Prophet_Model.ipynb
+├── Forecasting_Apple_Stock_Price.ipynb
 ├── requirements.txt
 └── README.md
 ```
