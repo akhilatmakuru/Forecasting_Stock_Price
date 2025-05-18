@@ -82,6 +82,6 @@ However, each model brings value depending on the context:
 ```
 .
 ├── Forecasting_Apple_Stock_Price.ipynb
-├── requirements.txt
-└── README.md
+├── README.md
+└── requirements.txt
 ```
